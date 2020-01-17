@@ -1,0 +1,22 @@
+
+
+@import "./animate.css";
+@import "./antd-mobile.css";
+@import "./common";
+@import "../scripts/utils/swiper/swiper-3.3.1.min.css";
+@import "./fonts/iconfont.css";
+
+html,body,#app , .section {
+    width:100vw;
+    height:100vh;
+}
+
+// .h1{
+//     width:200px;
+//     height:200px;/*no*/
+//     background: darkcyan;
+// }
+
+#app{
+    background: #e4e4e4;
+}
